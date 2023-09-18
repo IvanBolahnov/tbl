@@ -7,6 +7,6 @@ let getDay = () => {
 
 nowTable.editCaption(data[getDay()].name)
 
-nowTable.addContent(data[getDay()]['1'])
+nowTable.addContent(data[getDay()]['2'])
 console.log(nowTable)
 console.log(data[getDay()].name)
